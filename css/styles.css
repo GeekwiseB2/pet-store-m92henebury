@@ -1,0 +1,52 @@
+CSS///////
+
+[6:14]
+.container .fluid {
+ padding: 0px;
+}
+
+.header .logo {
+ max-height: 90px;
+}
+
+.header h1{
+ font-family: 'satisfy', cursive;
+ color:#FF8079 ;
+ display: inline;
+}
+
+.jumbotron {
+ border-radius: 0px!important;
+ background-image: url('../img/hero.jpg');
+ background-size: cover;
+ background-position: center;
+ height: 450px;
+}
+
+.jumbotron .slogan {
+ color: #fff;
+ font-size: 36px;
+ font-family: 'Open Sans'
+}
+
+.featured .thumbnail {
+ background-color: #EDF1F4 ;
+}
+
+/*contact page*/
+
+footer{
+  background-color: #231f20;
+}
+
+footer .logo{
+  max-height: 90px;
+}
+
+footer p{
+  text-align: center;
+  color: #fff;
+}
+.logo2{
+  max-height: 90px;
+}
